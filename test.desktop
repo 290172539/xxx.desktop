@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=test
+Exec=sudo /home/sti/all_git/Desktop_start/a.out
+Icon=/home/sti/all_git/Desktop_start/image/time.jpg
+Terminal=true
+Encoding=UTF-8
+Type=Application
